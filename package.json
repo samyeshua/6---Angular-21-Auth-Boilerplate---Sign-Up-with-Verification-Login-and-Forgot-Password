@@ -1,0 +1,24 @@
+{
+  "name": "6---angular-21-auth-boilerplate---sign-up-with-verification-login-and-forgot-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samyeshua/6---Angular-21-Auth-Boilerplate---Sign-Up-with-Verification-Login-and-Forgot-Password.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/samyeshua/6---Angular-21-Auth-Boilerplate---Sign-Up-with-Verification-Login-and-Forgot-Password/issues"
+  },
+  "homepage": "https://github.com/samyeshua/6---Angular-21-Auth-Boilerplate---Sign-Up-with-Verification-Login-and-Forgot-Password#readme",
+  "dependencies": {
+    "@angular/cli": "^21.2.10"
+  }
+}
